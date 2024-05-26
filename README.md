@@ -7,7 +7,7 @@
 <body>
 
 <h1>Guess Number Game</h1>
-
+<p>This project was completed during an internship at TopperWorld</p>
 <p>Welcome to the Guess Number Game! This is a simple Java console application where you have to guess a randomly generated number between 1 and 100.</p>
 
 <h2>How to Play</h2>
